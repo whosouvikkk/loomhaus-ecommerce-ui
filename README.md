@@ -75,7 +75,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://loomhaus-ecommerce-ui.vercel.app/
 
 ---
 
